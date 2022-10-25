@@ -1,0 +1,6 @@
+[stb]
+git-tree-sha1 = "99758d024ffc1fd5c9085591a1ef5caeb01383c2"
+
+    [[stb.download]]
+    sha256 = "1a29610894e958f4d320c73c62f1a6da35186f82df92cca8c7bf65a681202d0d"
+    url = "https://github.com/JuliaBinaryWrappers/stb_jll.jl/releases/download/stb-v0.0.20221025+0/stb.v0.0.20221025.any.tar.gz"

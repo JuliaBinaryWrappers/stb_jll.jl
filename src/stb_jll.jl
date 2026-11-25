@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("stb")
-JLLWrappers.@generate_main_file("stb", UUID("0a870b86-ede5-5f68-8916-0c4c2008bb27"))
+JLLWrappers.@generate_main_file("stb", Base.UUID("0a870b86-ede5-5f68-8916-0c4c2008bb27"))
 end  # module stb_jll
